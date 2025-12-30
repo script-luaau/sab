@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/admscript-lua/sab/refs/heads/main/luaaStil"))()
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/fSN6NtsnjbuSGv5m/raw", true))()
